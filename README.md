@@ -102,9 +102,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🎉 Acknowledgments
 
-- Thanks to the Replit platform for the development environment
-- Card images and design inspiration
-
+- Please make sure to refer this repository when you use the code
 ---
 
 **Enjoy playing the Memory Game!** 🧠✨
